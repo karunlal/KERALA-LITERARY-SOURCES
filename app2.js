@@ -1,4 +1,4 @@
-const url = 'https://script.google.com/macros/s/AKfycbzXtAHUKbmvpnq_7AE--YGoQW8ns9P1JX6Kr_usQ4sHHiYnynwaWVkQJNLdeqs2Bfvo/exec';
+const url = 'https://script.google.com/macros/s/AKfycbzffNp9y_YfQ07fyP6sYuS2KI0fHsyXRgRawR1n_8RrNF7pLOsTTN4wmX2QEFn_JQc9fA/exec';
 
 const output = document.querySelector('.output');
 const game = { question: 0, total: 0, data: [], score: 0 };
